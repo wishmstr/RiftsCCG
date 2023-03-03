@@ -106,7 +106,7 @@ Premiere/Freehold,_City_of_Dragons.jpg	https://raw.githubusercontent.com/wishmst
 Premiere/Full_Mobilization.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Full_Mobilization.jpg
 Premiere/Fury_Iron_Juggernauts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fury_Iron_Juggernauts.jpg
 Premiere/GB_6-96_Glitter_Boy_Transport.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/GB_6-96_Glitter_Boy_Transport.jpg
-Premiere/General_"Genius"_Godfrey.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/General_"Genius"_Godfrey.jpg
+Premiere/General_Genius_Godfrey.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/General_Genius_Godfrey.jpg
 Premiere/General_Marshall_Cabot.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/General_Marshall_Cabot.jpg
 Premiere/General_Ross_Underhill.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/General_Ross_Underhill.jpg
 Premiere/Geometric_Growth.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Geometric_Growth.jpg
