@@ -1,0 +1,319 @@
+Name	Set	Imagefile	card_type
+A Cold Day in Hell	Premiere	A_Cold_Day_in_Hell.jpg	Asset
+A-63 All Purpose Robots	Premiere	A-63_All_Purpose_Robots.jpg	Field Unit
+A-64 Master Robots	Premiere	A-64_Master_Robots.jpg	Field Unit
+AA-10 Bottweilers	Premiere	AA-10_Bottweilers.jpg	Field Unit
+AA-50 Insectons	Premiere	AA-50_Insectons.jpg	Field Unit
+Aberdeen Proving Grounds	Premiere	Aberdeen_Proving_Grounds.jpg	Base Unit
+AC-29 Air Castle Bombers	Premiere	AC-29_Air_Castle_Bombers.jpg	Field Unit
+Aerial Attack	Premiere	Aerial_Attack.jpg	Event
+Alistair Dunscon	Premiere	Alistair_Dunscon.jpg	Base Unit
+All Bases Covered	Premiere	All_Bases_Covered.jpg	Event
+Alliance of Science	Premiere	Alliance_of_Science.jpg	Asset
+Alliance of Sorcery	Premiere	Alliance_of_Sorcery.jpg	Asset
+Ambush	Premiere	Ambush.jpg	Event
+Apprentice	Premiere	Apprentice.jpg	Asset
+A.R.C.H.I.E. 3-OZ	Premiere	A.R.C.H.I.E._3-OZ.jpg	Base Unit
+Arl Xzzyni	Premiere	Arl_Xzzyni.jpg	Base Unit
+Armor of Ithan	Premiere	Armor_of_Ithan.jpg	Asset
+Army Recce	Premiere	Army_Recce.jpg	Field Unit
+Artillery Barrage	Premiere	Artillery_Barrage.jpg	Asset
+Aurelor the Magnificent	Premiere	Aurelor_the_Magnificent.jpg	Field Unit
+Basal Daemonix	Premiere	Basal_Daemonix.jpg	Base Unit
+Battle Magi	Premiere	Battle_Magi.jpg	Field Unit
+Bigger Guns	Premiere	Bigger_Guns.jpg	Asset
+Bio-Regeneration	Premiere	Bio-Regeneration.jpg	Asset
+Black Lightning Helicopters	Premiere	Black_Lightning_Helicopters.jpg	Field Unit
+Black Market	Premiere	Black_Market.jpg	Asset
+Bloodmist	Premiere	Bloodmist.jpg	Base Unit
+Bodyguards	Premiere	Bodyguards.jpg	Asset
+Booby Trap	Premiere	Booby_Trap.jpg	Event
+Bountiful Resources	Premiere	Bountiful_Resources.jpg	Asset
+Brains Over Brawn	Premiere	Brains_Over_Brawn.jpg	Asset
+Brethan D'zir	Premiere	Brethan_D'zir.jpg	Base Unit
+Brodkil Miscreants	Premiere	Brodkil_Miscreants.jpg	Field Unit
+Brok Redman	Premiere	Brok_Redman.jpg	Base Unit
+Burleson the War Mage	Premiere	Burleson_the_War_Mage.jpg	Field Unit
+Bursters	Premiere	Bursters.jpg	Field Unit
+Bursters	Premiere	Bursters.jpg	Field Unit
+Central War Chief	Premiere	Central_War_Chief.jpg	Asset
+Charge of the Cyber-Knights	Premiere	Charge_of_the_Cyber-Knights.jpg	Event
+Chi-Town & Burbs	Premiere	Chi-Town_&_Burbs.jpg	Base Unit
+Chi-Town & Burbs	Premiere	Chi-Town_&_Burbs.jpg	Base Unit
+City of Brass	Premiere	City_of_Brass.jpg	Base Unit
+City of Free Quebec	Premiere	City_of_Free_Quebec.jpg	Base Unit
+City of Free Quebec	Premiere	City_of_Free_Quebec.jpg	Base Unit
+City of Lazlo	Premiere	City_of_Lazlo.jpg	Base Unit
+City of Lazlo	Premiere	City_of_Lazlo.jpg	Base Unit
+City of Tolkeen	Premiere	City_of_Tolkeen.jpg	Base Unit
+City of Tolkeen	Premiere	City_of_Tolkeen.jpg	Base Unit
+City Rats	Premiere	City_Rats.jpg	Asset
+Coalition Armored Group	Premiere	Coalition_Armored_Group.jpg	Field Unit
+Coalition Juicers	Premiere	Coalition_Juicers.jpg	Field Unit
+Coalition State of Iron Heart	Premiere	Coalition_State_of_Iron_Heart.jpg	Base Unit
+Coalition State of Lone Star	Premiere	Coalition_State_of_Lone_Star.jpg	Base Unit
+Coalition States	Premiere	Coalition_States.jpg	Nation Card
+Colonel Marcus Larsen	Premiere	Colonel_Marcus_Larsen.jpg	Base Unit
+Colonel Rolf Ziechen, Triax Advisor	Premiere	Colonel_Rolf_Ziechen,_Triax_Advisor.jpg	Base Unit
+Colossus Automatons	Premiere	Colossus_Automatons.jpg	Field Unit
+Commando Strike	Premiere	Commando_Strike.jpg	Event
+Complacency	Premiere	Complacency.jpg	Event
+Coran D'zir	Premiere	Coran_D'zir.jpg	Base Unit
+Corrigal of the Nine	Premiere	Corrigal_of_the_Nine.jpg	Field Unit
+Cracius the Cunning	Premiere	Cracius_the_Cunning.jpg	Base Unit
+Crescent Wing Boards	Premiere	Crescent_Wing_Boards.jpg	Field Unit
+Cross-Fire	Premiere	Cross-Fire.jpg	Event
+Crush Your Enemies	Premiere	Crush_Your_Enemies.jpg	Event
+CTX-50 Line Backer Tanks	Premiere	CTX-50_Line_Backer_Tanks.jpg	Field Unit
+Cyber-Doc	Premiere	Cyber-Doc.jpg	Asset
+Cyber-Snatchers	Premiere	Cyber-Snatchers.jpg	Field Unit
+Cyberworks	Premiere	Cyberworks.jpg	Nation Card
+Cyborg Enforcers	Premiere	Cyborg_Enforcers.jpg	Field Unit
+Cyborg Enforcers	Premiere	Cyborg_Enforcers.jpg	Field Unit
+Daring Rescue	Premiere	Daring_Rescue.jpg	Asset
+Dead Boy Heavy Infantry	Premiere	Dead_Boy_Heavy_Infantry.jpg	Field Unit
+Death's Head Squadron	Premiere	Death's_Head_Squadron.jpg	Field Unit
+Defensive Perimeter	Premiere	Defensive_Perimeter.jpg	Asset
+Demonbusters, Inc.	Premiere	Demonbusters,_Inc..jpg	Field Unit
+Dervish Cyborg Troopers	Premiere	Dervish_Cyborg_Troopers.jpg	Field Unit
+Devouring Swarm	Premiere	Devouring_Swarm.jpg	Event
+Discreet Observation	Premiere	Discreet_Observation.jpg	Asset
+Dispersal	Premiere	Dispersal.jpg	Event
+Dog Pack Seek-and-Destroy Squads	Premiere	Dog_Pack_Seek-and-Destroy_Squads.jpg	Field Unit
+Dr. Desmond Bradford	Premiere	Dr._Desmond_Bradford.jpg	Base Unit
+Dragon Juicers	Premiere	Dragon_Juicers.jpg	Field Unit
+Duluth Hive	Premiere	Duluth_Hive.jpg	Base Unit
+Duluth Xiticix	Premiere	Duluth_Xiticix.jpg	Field Unit
+Dweomer	Premiere	Dweomer.jpg	Base Unit
+Dweomer	Premiere	Dweomer.jpg	Base Unit
+Earth Elementals	Premiere	Earth_Elementals.jpg	Field Unit
+Earthwake Iron Juggernauts	Premiere	Earthwake_Iron_Juggernauts.jpg	Field Unit
+Elemental Warlocks	Premiere	Elemental_Warlocks.jpg	Base Unit
+Elemental Warlocks	Premiere	Elemental_Warlocks.jpg	Base Unit
+Emperor Karl Prosek	Premiere	Emperor_Karl_Prosek.jpg	Base Unit
+Emperor Sabre Lasar	Premiere	Emperor_Sabre_Lasar.jpg	Base Unit
+Endless Horde of Minions	Premiere	Endless_Horde_of_Minions.jpg	Event
+Engineers	Premiere	Engineers.jpg	Asset
+Erin Tarn	Premiere	Erin_Tarn.jpg	Base Unit
+Experiments	Premiere	Experiments.jpg	Event
+Extermination	Premiere	Extermination.jpg	Event
+Fargo Hive	Premiere	Fargo_Hive.jpg	Base Unit
+Fargo Xiticix	Premiere	Fargo_Xiticix.jpg	Field Unit
+Feculence Daemonix	Premiere	Feculence_Daemonix.jpg	Field Unit
+Federation of Magic	Premiere	Federation_of_Magic.jpg	Nation Card
+Fire Demon Automatons	Premiere	Fire_Demon_Automatons.jpg	Field Unit
+First Calgary Volunteers	Premiere	First_Calgary_Volunteers.jpg	Field Unit
+Fleet Admiral Jacques LeFevre	Premiere	Fleet_Admiral_Jacques_LeFevre.jpg	Base Unit
+Flying Titan Power Armor Troops	Premiere	Flying_Titan_Power_Armor_Troops.jpg	Field Unit
+Flying Titan Power Armor Troops	Premiere	Flying_Titan_Power_Armor_Troops.jpg	Field Unit
+Force Field	Premiere	Force_Field.jpg	Event
+Fort Caldera	Premiere	Fort_Caldera.jpg	Base Unit
+Fortifications	Premiere	Fortifications.jpg	Field Unit
+Frank Mire, Coalition Grunt	Premiere	Frank_Mire,_Coalition_Grunt.jpg	Field Unit
+Free Quebec	Premiere	Free_Quebec.jpg	Nation Card
+Freehold, City of Dragons	Premiere	Freehold,_City_of_Dragons.jpg	Base Unit
+Full Mobilization	Premiere	Full_Mobilization.jpg	Event
+Fury Iron Juggernauts	Premiere	Fury_Iron_Juggernauts.jpg	Field Unit
+GB 6-96 Glitter Boy Transport	Premiere	GB_6-96_Glitter_Boy_Transport.jpg	Field Unit
+General "Genius" Godfrey	Premiere	General_"Genius"_Godfrey.jpg	Field Unit
+General Marshall Cabot	Premiere	General_Marshall_Cabot.jpg	Base Unit
+General Ross Underhill	Premiere	General_Ross_Underhill.jpg	Base Unit
+Geometric Growth	Premiere	Geometric_Growth.jpg	Event
+Glitter Boy Killers	Premiere	Glitter_Boy_Killers.jpg	Field Unit
+Glitter Boy Sidekicks	Premiere	Glitter_Boy_Sidekicks.jpg	Field Unit
+Glitter Boy Squadron	Premiere	Glitter_Boy_Squadron.jpg	Field Unit
+Glitter Girls	Premiere	Glitter_Girls.jpg	Field Unit
+Golden Age Weaponsmiths	Premiere	Golden_Age_Weaponsmiths.jpg	Field Unit
+Golden Age Weaponsmiths	Premiere	Golden_Age_Weaponsmiths.jpg	Field Unit
+Grahmzin LaMoore	Premiere	Grahmzin_LaMoore.jpg	Field Unit
+Gray Fox	Premiere	Gray_Fox.jpg	Base Unit
+Grind Them to Dust	Premiere	Grind_Them_to_Dust.jpg	Event
+Ground Assault	Premiere	Ground_Assault.jpg	Event
+Hagan Lonovich	Premiere	Hagan_Lonovich.jpg	Base Unit
+Hangdog Daemonix	Premiere	Hangdog_Daemonix.jpg	Field Unit
+Head Shot	Premiere	Head_Shot.jpg	Event
+Head Shot	Premiere	Head_Shot.jpg	Event
+Heavy Duty Cyborgs	Premiere	Heavy_Duty_Cyborgs.jpg	Field Unit
+Heavy Fire	Premiere	Heavy_Fire.jpg	Event
+Heroism	Premiere	Heroism.jpg	Event
+Heroism	Premiere	Heroism.jpg	Event
+Hidden Arts	Premiere	Hidden_Arts.jpg	Event
+High Magi	Premiere	High_Magi.jpg	Field Unit
+Hit and Run	Premiere	Hit_and_Run.jpg	Event
+Houstown	Premiere	Houstown.jpg	Base Unit
+Houstown	Premiere	Houstown.jpg	Base Unit
+IAR-4 Hellraisers	Premiere	IAR-4_Hellraisers.jpg	Field Unit
+IAR-5 Hellfires	Premiere	IAR-5_Hellfires.jpg	Field Unit
+Immolator Daemonix	Premiere	Immolator_Daemonix.jpg	Field Unit
+Imprimer Cyborgs	Premiere	Imprimer_Cyborgs.jpg	Field Unit
+Invulnerability	Premiere	Invulnerability.jpg	Event
+Iron Dragonfly Heavy Air Juggernauts	Premiere	Iron_Dragonfly_Heavy_Air_Juggernauts.jpg	Field Unit
+Ironbane	Premiere	Ironbane.jpg	Asset
+Joseph Prosek II	Premiere	Joseph_Prosek_II.jpg	Base Unit
+Juicer Army of Liberation	Premiere	Juicer_Army_of_Liberation.jpg	Asset
+Juicer Assassins	Premiere	Juicer_Assassins.jpg	Field Unit
+K'zaa	Premiere	K'zaa.jpg	Base Unit
+Khosrou	Premiere	Khosrou.jpg	Field Unit
+Kill Hounds	Premiere	Kill_Hounds.jpg	Field Unit
+King Victor Macklin	Premiere	King_Victor_Macklin.jpg	Base Unit
+Know Thy Enemy	Premiere	Know_Thy_Enemy.jpg	Event
+Large-Scale Tactics	Premiere	Large-Scale_Tactics.jpg	Event
+Large-Scale Tactics	Premiere	Large-Scale_Tactics.jpg	Event
+Last Stand	Premiere	Last_Stand.jpg	Event
+Lazlo	Premiere	Lazlo.jpg	Nation Card
+Le Baron Epouvantable	Premiere	Le_Baron_Epouvantable.jpg	Field Unit
+Le Surete du Quebec	Premiere	Le_Surete_du_Quebec.jpg	Base Unit
+Leizak D'zir	Premiere	Leizak_D'zir.jpg	Base Unit
+Ley Line Nexus	Premiere	Ley_Line_Nexus.jpg	Event
+Ley Line Storm	Premiere	Ley_Line_Storm.jpg	Event
+Ley Line Walkers	Premiere	Ley_Line_Walkers.jpg	Field Unit
+Ley Line Walkers	Premiere	Ley_Line_Walkers.jpg	Field Unit
+Liberté, Fraternité	Premiere	Liberte,_Fraternite.jpg	Event
+Liberty Reserve Cyborgs	Premiere	Liberty_Reserve_Cyborgs.jpg	Field Unit
+Liberty Reserve Juicers	Premiere	Liberty_Reserve_Juicers.jpg	Field Unit
+Lockdown	Premiere	Lockdown.jpg	Asset
+Lockdown	Premiere	Lockdown.jpg	Asset
+Loot and Pillage	Premiere	Loot_and_Pillage.jpg	Event
+Lord Magi	Premiere	Lord_Magi.jpg	Field Unit
+Los Alamo	Premiere	Los_Alamo.jpg	Base Unit
+Los Alamo	Premiere	Los_Alamo.jpg	Base Unit
+M.R. Hummel's Hammerheads	Premiere	M.R._Hummel's_Hammerheads.jpg	Field Unit
+Magestar	Premiere	Magestar.jpg	Base Unit
+Major Perrin	Premiere	Major_Perrin.jpg	Field Unit
+Man-Eagles	Premiere	Man-Eagles.jpg	Field Unit
+Mankind's Salvation	Premiere	Mankind's_Salvation.jpg	Asset
+Manslayer Daemonix	Premiere	Manslayer_Daemonix.jpg	Field Unit
+Mark V Armored Personnel Carrier	Premiere	Mark_V_Armored_Personnel_Carrier.jpg	Field Unit
+Mechanized Platoon	Premiere	Mechanized_Platoon.jpg	Field Unit
+Mechanized Recon Squad	Premiere	Mechanized_Recon_Squad.jpg	Field Unit
+Mega-Juicers	Premiere	Mega-Juicers.jpg	Field Unit
+Mental Discipline	Premiere	Mental_Discipline.jpg	Event
+Merchant Marine	Premiere	Merchant_Marine.jpg	Asset
+Mind Melters	Premiere	Mind_Melters.jpg	Field Unit
+Missile Salvo	Premiere	Missile_Salvo.jpg	Event
+Missile Salvo	Premiere	Missile_Salvo.jpg	Event
+Mobile Defense	Premiere	Mobile_Defense.jpg	Event
+Mongoth	Premiere	Mongoth.jpg	Field Unit
+Monst-Rexes	Premiere	Monst-Rexes.jpg	Field Unit
+Montreal	Premiere	Montreal.jpg	Base Unit
+Mornn	Premiere	Mornn.jpg	Field Unit
+Multiply and Conquer	Premiere	Multiply_and_Conquer.jpg	Event
+Murder Wraiths	Premiere	Murder_Wraiths.jpg	Field Unit
+Mystic Knights	Premiere	Mystic_Knights.jpg	Field Unit
+Naval Superiority	Premiere	Naval_Superiority.jpg	Asset
+Naval Superiority	Premiere	Naval_Superiority.jpg	Asset
+Neuron Beasts	Premiere	Neuron_Beasts.jpg	Field Unit
+New Lazlo	Premiere	New_Lazlo.jpg	Base Unit
+New Technologies	Premiere	New_Technologies.jpg	Event
+NG-V7 Hunter Mobile Guns	Premiere	NG-V7_Hunter_Mobile_Guns.jpg	Field Unit
+NG-V7 Hunter Mobile Guns	Premiere	NG-V7_Hunter_Mobile_Guns.jpg	Field Unit
+Nikiden Shodai	Premiere	Nikiden_Shodai.jpg	Field Unit
+Nine Rings of Elder	Premiere	Nine_Rings_of_Elder.jpg	Asset
+Old Bones	Premiere	Old_Bones.jpg	Base Unit
+On Full Alert	Premiere	On_Full_Alert.jpg	Event
+Orpheus	Premiere	Orpheus.jpg	Base Unit
+Pack Up and Move Out	Premiere	Pack_Up_and_Move_Out.jpg	Event
+Peace and Harmony	Premiere	Peace_and_Harmony.jpg	Event
+Pecos Empire	Premiere	Pecos_Empire.jpg	Nation Card
+Plato	Premiere	Plato.jpg	Base Unit
+Poor Yorick	Premiere	Poor_Yorick.jpg	Asset
+Power Blast	Premiere	Power_Blast.jpg	Event
+Pre-Rifts Industrial Complex	Premiere	Pre-Rifts_Industrial_Complex.jpg	Base Unit
+Pre-Rifts Industrial Complex	Premiere	Pre-Rifts_Industrial_Complex.jpg	Base Unit
+Press the Attack	Premiere	Press_the_Attack.jpg	Asset
+Prime Minister James Lorne	Premiere	Prime_Minister_James_Lorne.jpg	Base Unit
+Psi Battallion	Premiere	Psi_Battallion.jpg	Field Unit
+Psi-Stalkers	Premiere	Psi-Stalkers.jpg	Field Unit
+Psi-Stalkers	Premiere	Psi-Stalkers.jpg	Field Unit
+Quebecois Infantry	Premiere	Quebecois_Infantry.jpg	Field Unit
+Rag'tar Batrick	Premiere	Rag'tar_Batrick.jpg	Field Unit
+Rapid Deployment Company	Premiere	Rapid_Deployment_Company.jpg	Field Unit
+Rebuild	Premiere	Rebuild.jpg	Event
+Regroup	Premiere	Regroup.jpg	Event
+Renegade Dog Boys	Premiere	Renegade_Dog_Boys.jpg	Field Unit
+Reprogramming	Premiere	Reprogramming.jpg	Asset
+Rise From Chaos	Premiere	Rise_From_Chaos.jpg	Event
+Rolla-Morden Hive	Premiere	Rolla-Morden_Hive.jpg	Base Unit
+Rolla-Morden Xiticix	Premiere	Rolla-Morden_Xiticix.jpg	Field Unit
+SAMAS Squadron	Premiere	SAMAS_Squadron.jpg	Field Unit
+Sea Viper Iron Juggernauts	Premiere	Sea_Viper_Iron_Juggernauts.jpg	Field Unit
+Shemarrian Warriors	Premiere	Shemarrian_Warriors.jpg	Field Unit
+Shifters	Premiere	Shifters.jpg	Base Unit
+Simvan Monster Riders	Premiere	Simvan_Monster_Riders.jpg	Field Unit
+Sir Tristram	Premiere	Sir_Tristram.jpg	Field Unit
+Sir Winslow Thorpe	Premiere	Sir_Winslow_Thorpe.jpg	Field Unit
+Skelebot Platoon	Premiere	Skelebot_Platoon.jpg	Field Unit
+Sky Cycles	Premiere	Sky_Cycles.jpg	Field Unit
+Slice and Dice	Premiere	Slice_and_Dice.jpg	Event
+Sorcerers' Revenge	Premiere	Sorcerers'_Revenge.jpg	Asset
+Special Projects	Premiere	Special_Projects.jpg	Event
+Spider-Skull Walkers	Premiere	Spider-Skull_Walkers.jpg	Field Unit
+Spider-Skull Walkers	Premiere	Spider-Skull_Walkers.jpg	Field Unit
+Spiny Ravagers	Premiere	Spiny_Ravagers.jpg	Field Unit
+Stolen Battle Plans	Premiere	Stolen_Battle_Plans.jpg	Event
+Stormspire	Premiere	Stormspire.jpg	Base Unit
+Stormspire	Premiere	Stormspire.jpg	Base Unit
+Strategic Withdrawal	Premiere	Strategic_Withdrawal.jpg	Event
+Stray From the Pack	Premiere	Stray_From_the_Pack.jpg	Event
+Sundance	Premiere	Sundance.jpg	Base Unit
+Sunset Angel	Premiere	Sunset_Angel.jpg	Field Unit
+Super SAMAS Squadron	Premiere	Super_SAMAS_Squadron.jpg	Field Unit
+Suppression Fire	Premiere	Suppression_Fire.jpg	Asset
+Suppression Fire	Premiere	Suppression_Fire.jpg	Asset
+Tactical Nuke	Premiere	Tactical_Nuke.jpg	Event
+Take Point	Premiere	Take_Point.jpg	Event
+Tarantula Glitter Boys	Premiere	Tarantula_Glitter_Boys.jpg	Field Unit
+Tazoro Zain, Mystic Knight	Premiere	Tazoro_Zain,_Mystic_Knight.jpg	Field Unit
+Tech Upgrade	Premiere	Tech_Upgrade.jpg	Asset
+Techno-Wizard Desperados	Premiere	Techno-Wizard_Desperados.jpg	Field Unit
+Techno-Wizard Smiths	Premiere	Techno-Wizard_Smiths.jpg	Base Unit
+Techno-Wizard Smiths	Premiere	Techno-Wizard_Smiths.jpg	Base Unit
+Technological Supremacy	Premiere	Technological_Supremacy.jpg	Event
+Telemechanics	Premiere	Telemechanics.jpg	Asset
+Terror Troopers	Premiere	Terror_Troopers.jpg	Field Unit
+The Book of Ten	Premiere	The_Book_of_Ten.jpg	Asset
+The Diamond Alliance	Premiere	The_Diamond_Alliance.jpg	Field Unit
+The Great Purple Mage	Premiere	The_Great_Purple_Mage.jpg	Base Unit
+The Grim Reapers	Premiere	The_Grim_Reapers.jpg	Field Unit
+The Pact	Premiere	The_Pact.jpg	Event
+The Pecos Raiders	Premiere	The_Pecos_Raiders.jpg	Field Unit
+The Sabre Warriors	Premiere	The_Sabre_Warriors.jpg	Field Unit
+Thirst for Battle	Premiere	Thirst_for_Battle.jpg	Asset
+Thomm	Premiere	Thomm.jpg	Base Unit
+Thornhead Demons	Premiere	Thornhead_Demons.jpg	Field Unit
+Thornhead Demons	Premiere	Thornhead_Demons.jpg	Field Unit
+Thundering Iron Juggernauts	Premiere	Thundering_Iron_Juggernauts.jpg	Field Unit
+Titan Combat Robots	Premiere	Titan_Combat_Robots.jpg	Field Unit
+Titan Juicers	Premiere	Titan_Juicers.jpg	Field Unit
+Titan Juicers	Premiere	Titan_Juicers.jpg	Field Unit
+Tokanii	Premiere	Tokanii.jpg	Field Unit
+Tolkeen	Premiere	Tolkeen.jpg	Nation Card
+Total War	Premiere	Total_War.jpg	Event
+Town of Solomon	Premiere	Town_of_Solomon.jpg	Base Unit
+Upstart Warlord	Premiere	Upstart_Warlord.jpg	Nation Card
+Urban Decay	Premiere	Urban_Decay.jpg	Event
+Urban Warfare	Premiere	Urban_Warfare.jpg	Event
+Vanguard Brawlers	Premiere	Vanguard_Brawlers.jpg	Field Unit
+Versatility	Premiere	Versatility.jpg	Asset
+Violator SAMAS Squadron	Premiere	Violator_SAMAS_Squadron.jpg	Field Unit
+Warhawk Iron Juggernauts	Premiere	Warhawk_Iron_Juggernauts.jpg	Field Unit
+Warlord Don Marco	Premiere	Warlord_Don_Marco.jpg	Base Unit
+Warlord Uxluth	Premiere	Warlord_Uxluth.jpg	Base Unit
+Water Elementals	Premiere	Water_Elementals.jpg	Field Unit
+Weapon Burst	Premiere	Weapon_Burst.jpg	Event
+Wild Psi-Stalkers	Premiere	Wild_Psi-Stalkers.jpg	Field Unit
+Winnipeg Hive	Premiere	Winnipeg_Hive.jpg	Base Unit
+Winnipeg Xiticix	Premiere	Winnipeg_Xiticix.jpg	Field Unit
+Witchlings	Premiere	Witchlings.jpg	Field Unit
+Witchlings	Premiere	Witchlings.jpg	Field Unit
+Xiticix	Premiere	Xiticix.jpg	Nation Card
+Xiticix Elder Queen	Premiere	Xiticix_Elder_Queen.jpg	Base Unit
+Xiticix Killers	Premiere	Xiticix_Killers.jpg	Field Unit
+Xiticix Nannies	Premiere	Xiticix_Nannies.jpg	Base Unit
+Xiticix Raiding Swarm	Premiere	Xiticix_Raiding_Swarm.jpg	Field Unit
+Xiticix Super-Warriors	Premiere	Xiticix_Super-Warriors.jpg	Field Unit
+Xiticix Warriors	Premiere	Xiticix_Warriors.jpg	Field Unit
+Xiticix Workers	Premiere	Xiticix_Workers.jpg	Field Unit
+Xiticix Young Queens	Premiere	Xiticix_Young_Queens.jpg	Base Unit
+Zimchex	Premiere	Zimchex.jpg	Base Unit
+			

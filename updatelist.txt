@@ -1,0 +1,11 @@
+RiftsCCG	03-03-23
+plugins/RiftsCCG/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/plugininfo.txt	236459
+plugins/RiftsCCG/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/pluginpreferences.txt	303251
+plugins/RiftsCCG/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/carddata.txt	1626979
+plugins/RiftsCCG/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/general/cardback.jpg	181901
+plugins/RiftsCCG/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/general/spawned.jpg	181901
+plugins/RiftsCCG/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/CardImageURLs1.txt	3675571
+plugins/RiftsCCG/Rules10.pdf	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/Rules10.pdf	2173441
+plugins/RiftsCCG/decks/Starter_deck.dek	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/decks/Starter_Deck.dek	591094
+CardURLFiles:
+CardImageURLs1.txt

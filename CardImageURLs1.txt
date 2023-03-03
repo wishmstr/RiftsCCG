@@ -1,0 +1,320 @@
+CardImageURLs:
+Premiere/A_Cold_Day_in_Hell.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/A_Cold_Day_in_Hell.jpg
+Premiere/A-63_All_Purpose_Robots.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/A-63_All_Purpose_Robots.jpg
+Premiere/A-64_Master_Robots.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/A-64_Master_Robots.jpg
+Premiere/AA-10_Bottweilers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/AA-10_Bottweilers.jpg
+Premiere/AA-50_Insectons.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/AA-50_Insectons.jpg
+Premiere/Aberdeen_Proving_Grounds.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Aberdeen_Proving_Grounds.jpg
+Premiere/AC-29_Air_Castle_Bombers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/AC-29_Air_Castle_Bombers.jpg
+Premiere/Aerial_Attack.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Aerial_Attack.jpg
+Premiere/Alistair_Dunscon.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Alistair_Dunscon.jpg
+Premiere/All_Bases_Covered.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/All_Bases_Covered.jpg
+Premiere/Alliance_of_Science.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Alliance_of_Science.jpg
+Premiere/Alliance_of_Sorcery.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Alliance_of_Sorcery.jpg
+Premiere/Ambush.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Ambush.jpg
+Premiere/Apprentice.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Apprentice.jpg
+Premiere/A.R.C.H.I.E._3-OZ.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/A.R.C.H.I.E._3-OZ.jpg
+Premiere/Arl_Xzzyni.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Arl_Xzzyni.jpg
+Premiere/Armor_of_Ithan.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Armor_of_Ithan.jpg
+Premiere/Army_Recce.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Army_Recce.jpg
+Premiere/Artillery_Barrage.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Artillery_Barrage.jpg
+Premiere/Aurelor_the_Magnificent.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Aurelor_the_Magnificent.jpg
+Premiere/Basal_Daemonix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Basal_Daemonix.jpg
+Premiere/Battle_Magi.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Battle_Magi.jpg
+Premiere/Bigger_Guns.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Bigger_Guns.jpg
+Premiere/Bio-Regeneration.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Bio-Regeneration.jpg
+Premiere/Black_Lightning_Helicopters.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Black_Lightning_Helicopters.jpg
+Premiere/Black_Market.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Black_Market.jpg
+Premiere/Bloodmist.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Bloodmist.jpg
+Premiere/Bodyguards.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Bodyguards.jpg
+Premiere/Booby_Trap.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Booby_Trap.jpg
+Premiere/Bountiful_Resources.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Bountiful_Resources.jpg
+Premiere/Brains_Over_Brawn.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Brains_Over_Brawn.jpg
+Premiere/Brethan_D'zir.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Brethan_D'zir.jpg
+Premiere/Brodkil_Miscreants.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Brodkil_Miscreants.jpg
+Premiere/Brok_Redman.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Brok_Redman.jpg
+Premiere/Burleson_the_War_Mage.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Burleson_the_War_Mage.jpg
+Premiere/Bursters.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Bursters.jpg
+Premiere/Central_War_Chief.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Central_War_Chief.jpg
+Premiere/Charge_of_the_Cyber-Knights.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Charge_of_the_Cyber-Knights.jpg
+Premiere/Chi-Town_&_Burbs.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Chi-Town_&_Burbs.jpg
+Premiere/City_of_Brass.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/City_of_Brass.jpg
+Premiere/City_of_Free_Quebec.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/City_of_Free_Quebec.jpg
+Premiere/City_of_Lazlo.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/City_of_Lazlo.jpg
+Premiere/City_of_Tolkeen.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/City_of_Tolkeen.jpg
+Premiere/City_Rats.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/City_Rats.jpg
+Premiere/Coalition_Armored_Group.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Coalition_Armored_Group.jpg
+Premiere/Coalition_Juicers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Coalition_Juicers.jpg
+Premiere/Coalition_State_of_Iron_Heart.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Coalition_State_of_Iron_Heart.jpg
+Premiere/Coalition_State_of_Lone_Star.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Coalition_State_of_Lone_Star.jpg
+Premiere/Coalition_States.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Coalition_States.jpg
+Premiere/Colonel_Marcus_Larsen.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Colonel_Marcus_Larsen.jpg
+Premiere/Colonel_Rolf_Ziechen,_Triax_Advisor.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Colonel_Rolf_Ziechen,_Triax_Advisor.jpg
+Premiere/Colossus_Automatons.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Colossus_Automatons.jpg
+Premiere/Commando_Strike.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Commando_Strike.jpg
+Premiere/Complacency.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Complacency.jpg
+Premiere/Coran_D'zir.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Coran_D'zir.jpg
+Premiere/Corrigal_of_the_Nine.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Corrigal_of_the_Nine.jpg
+Premiere/Cracius_the_Cunning.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Cracius_the_Cunning.jpg
+Premiere/Crescent_Wing_Boards.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Crescent_Wing_Boards.jpg
+Premiere/Cross-Fire.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Cross-Fire.jpg
+Premiere/Crush_Your_Enemies.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Crush_Your_Enemies.jpg
+Premiere/CTX-50_Line_Backer_Tanks.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/CTX-50_Line_Backer_Tanks.jpg
+Premiere/Cyber-Doc.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Cyber-Doc.jpg
+Premiere/Cyber-Snatchers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Cyber-Snatchers.jpg
+Premiere/Cyberworks.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Cyberworks.jpg
+Premiere/Cyborg_Enforcers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Cyborg_Enforcers.jpg
+Premiere/Daring_Rescue.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Daring_Rescue.jpg
+Premiere/Dead_Boy_Heavy_Infantry.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Dead_Boy_Heavy_Infantry.jpg
+Premiere/Death's_Head_Squadron.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Death's_Head_Squadron.jpg
+Premiere/Defensive_Perimeter.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Defensive_Perimeter.jpg
+Premiere/Demonbusters,_Inc..jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Demonbusters,_Inc..jpg
+Premiere/Dervish_Cyborg_Troopers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Dervish_Cyborg_Troopers.jpg
+Premiere/Devouring_Swarm.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Devouring_Swarm.jpg
+Premiere/Discreet_Observation.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Discreet_Observation.jpg
+Premiere/Dispersal.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Dispersal.jpg
+Premiere/Dog_Pack_Seek-and-Destroy_Squads.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Dog_Pack_Seek-and-Destroy_Squads.jpg
+Premiere/Dr._Desmond_Bradford.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Dr._Desmond_Bradford.jpg
+Premiere/Dragon_Juicers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Dragon_Juicers.jpg
+Premiere/Duluth_Hive.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Duluth_Hive.jpg
+Premiere/Duluth_Xiticix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Duluth_Xiticix.jpg
+Premiere/Dweomer.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Dweomer.jpg
+Premiere/Earth_Elementals.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Earth_Elementals.jpg
+Premiere/Earthwake_Iron_Juggernauts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Earthwake_Iron_Juggernauts.jpg
+Premiere/Elemental_Warlocks.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Elemental_Warlocks.jpg
+Premiere/Emperor_Karl_Prosek.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Emperor_Karl_Prosek.jpg
+Premiere/Emperor_Sabre_Lasar.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Emperor_Sabre_Lasar.jpg
+Premiere/Endless_Horde_of_Minions.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Endless_Horde_of_Minions.jpg
+Premiere/Engineers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Engineers.jpg
+Premiere/Erin_Tarn.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Erin_Tarn.jpg
+Premiere/Experiments.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Experiments.jpg
+Premiere/Extermination.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Extermination.jpg
+Premiere/Fargo_Hive.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fargo_Hive.jpg
+Premiere/Fargo_Xiticix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fargo_Xiticix.jpg
+Premiere/Feculence_Daemonix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Feculence_Daemonix.jpg
+Premiere/Federation_of_Magic.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Federation_of_Magic.jpg
+Premiere/Fire_Demon_Automatons.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fire_Demon_Automatons.jpg
+Premiere/First_Calgary_Volunteers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/First_Calgary_Volunteers.jpg
+Premiere/Fleet_Admiral_Jacques_LeFevre.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fleet_Admiral_Jacques_LeFevre.jpg
+Premiere/Flying_Titan_Power_Armor_Troops.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Flying_Titan_Power_Armor_Troops.jpg
+Premiere/Force_Field.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Force_Field.jpg
+Premiere/Fort_Caldera.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fort_Caldera.jpg
+Premiere/Fortifications.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fortifications.jpg
+Premiere/Frank_Mire,_Coalition_Grunt.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Frank_Mire,_Coalition_Grunt.jpg
+Premiere/Free_Quebec.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Free_Quebec.jpg
+Premiere/Freehold,_City_of_Dragons.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Freehold,_City_of_Dragons.jpg
+Premiere/Full_Mobilization.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Full_Mobilization.jpg
+Premiere/Fury_Iron_Juggernauts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Fury_Iron_Juggernauts.jpg
+Premiere/GB_6-96_Glitter_Boy_Transport.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/GB_6-96_Glitter_Boy_Transport.jpg
+Premiere/General_"Genius"_Godfrey.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/General_"Genius"_Godfrey.jpg
+Premiere/General_Marshall_Cabot.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/General_Marshall_Cabot.jpg
+Premiere/General_Ross_Underhill.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/General_Ross_Underhill.jpg
+Premiere/Geometric_Growth.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Geometric_Growth.jpg
+Premiere/Glitter_Boy_Killers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Glitter_Boy_Killers.jpg
+Premiere/Glitter_Boy_Sidekicks.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Glitter_Boy_Sidekicks.jpg
+Premiere/Glitter_Boy_Squadron.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Glitter_Boy_Squadron.jpg
+Premiere/Glitter_Girls.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Glitter_Girls.jpg
+Premiere/Golden_Age_Weaponsmiths.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Golden_Age_Weaponsmiths.jpg
+Premiere/Grahmzin_LaMoore.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Grahmzin_LaMoore.jpg
+Premiere/Gray_Fox.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Gray_Fox.jpg
+Premiere/Grind_Them_to_Dust.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Grind_Them_to_Dust.jpg
+Premiere/Ground_Assault.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Ground_Assault.jpg
+Premiere/Hagan_Lonovich.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Hagan_Lonovich.jpg
+Premiere/Hangdog_Daemonix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Hangdog_Daemonix.jpg
+Premiere/Head_Shot.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Head_Shot.jpg
+Premiere/Heavy_Duty_Cyborgs.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Heavy_Duty_Cyborgs.jpg
+Premiere/Heavy_Fire.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Heavy_Fire.jpg
+Premiere/Heroism.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Heroism.jpg
+Premiere/Hidden_Arts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Hidden_Arts.jpg
+Premiere/High_Magi.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/High_Magi.jpg
+Premiere/Hit_and_Run.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Hit_and_Run.jpg
+Premiere/Houstown.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Houstown.jpg
+Premiere/IAR-4_Hellraisers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/IAR-4_Hellraisers.jpg
+Premiere/IAR-5_Hellfires.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/IAR-5_Hellfires.jpg
+Premiere/Immolator_Daemonix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Immolator_Daemonix.jpg
+Premiere/Imprimer_Cyborgs.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Imprimer_Cyborgs.jpg
+Premiere/Invulnerability.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Invulnerability.jpg
+Premiere/Iron_Dragonfly_Heavy_Air_Juggernauts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Iron_Dragonfly_Heavy_Air_Juggernauts.jpg
+Premiere/Ironbane.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Ironbane.jpg
+Premiere/Joseph_Prosek_II.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Joseph_Prosek_II.jpg
+Premiere/Juicer_Army_of_Liberation.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Juicer_Army_of_Liberation.jpg
+Premiere/Juicer_Assassins.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Juicer_Assassins.jpg
+Premiere/K'zaa.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/K'zaa.jpg
+Premiere/Khosrou.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Khosrou.jpg
+Premiere/Kill_Hounds.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Kill_Hounds.jpg
+Premiere/King_Victor_Macklin.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/King_Victor_Macklin.jpg
+Premiere/Know_Thy_Enemy.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Know_Thy_Enemy.jpg
+Premiere/Large-Scale_Tactics.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Large-Scale_Tactics.jpg
+Premiere/Last_Stand.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Last_Stand.jpg
+Premiere/Lazlo.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Lazlo.jpg
+Premiere/Le_Baron_Epouvantable.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Le_Baron_Epouvantable.jpg
+Premiere/Le_Surete_du_Quebec.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Le_Surete_du_Quebec.jpg
+Premiere/Leizak_D'zir.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Leizak_D'zir.jpg
+Premiere/Ley_Line_Nexus.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Ley_Line_Nexus.jpg
+Premiere/Ley_Line_Storm.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Ley_Line_Storm.jpg
+Premiere/Ley_Line_Walkers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Ley_Line_Walkers.jpg
+Premiere/Liberte,_Fraternite.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Liberte,_Fraternite.jpg
+Premiere/Liberty_Reserve_Cyborgs.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Liberty_Reserve_Cyborgs.jpg
+Premiere/Liberty_Reserve_Juicers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Liberty_Reserve_Juicers.jpg
+Premiere/Lockdown.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Lockdown.jpg
+Premiere/Loot_and_Pillage.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Loot_and_Pillage.jpg
+Premiere/Lord_Magi.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Lord_Magi.jpg
+Premiere/Los_Alamo.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Los_Alamo.jpg
+Premiere/M.R._Hummel's_Hammerheads.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/M.R._Hummel's_Hammerheads.jpg
+Premiere/Magestar.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Magestar.jpg
+Premiere/Major_Perrin.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Major_Perrin.jpg
+Premiere/Man-Eagles.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Man-Eagles.jpg
+Premiere/Mankind's_Salvation.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mankind's_Salvation.jpg
+Premiere/Manslayer_Daemonix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Manslayer_Daemonix.jpg
+Premiere/Mark_V_Armored_Personnel_Carrier.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mark_V_Armored_Personnel_Carrier.jpg
+Premiere/Mechanized_Platoon.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mechanized_Platoon.jpg
+Premiere/Mechanized_Recon_Squad.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mechanized_Recon_Squad.jpg
+Premiere/Mega-Juicers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mega-Juicers.jpg
+Premiere/Mental_Discipline.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mental_Discipline.jpg
+Premiere/Merchant_Marine.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Merchant_Marine.jpg
+Premiere/Mind_Melters.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mind_Melters.jpg
+Premiere/Missile_Salvo.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Missile_Salvo.jpg
+Premiere/Mobile_Defense.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mobile_Defense.jpg
+Premiere/Mongoth.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mongoth.jpg
+Premiere/Monst-Rexes.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Monst-Rexes.jpg
+Premiere/Montreal.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Montreal.jpg
+Premiere/Mornn.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mornn.jpg
+Premiere/Multiply_and_Conquer.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Multiply_and_Conquer.jpg
+Premiere/Murder_Wraiths.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Murder_Wraiths.jpg
+Premiere/Mystic_Knights.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Mystic_Knights.jpg
+Premiere/Naval_Superiority.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Naval_Superiority.jpg
+Premiere/Neuron_Beasts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Neuron_Beasts.jpg
+Premiere/New_Lazlo.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/New_Lazlo.jpg
+Premiere/New_Technologies.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/New_Technologies.jpg
+Premiere/NG-V7_Hunter_Mobile_Guns.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/NG-V7_Hunter_Mobile_Guns.jpg
+Premiere/Nikiden_Shodai.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Nikiden_Shodai.jpg
+Premiere/Nine_Rings_of_Elder.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Nine_Rings_of_Elder.jpg
+Premiere/Old_Bones.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Old_Bones.jpg
+Premiere/On_Full_Alert.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/On_Full_Alert.jpg
+Premiere/Orpheus.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Orpheus.jpg
+Premiere/Pack_Up_and_Move_Out.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Pack_Up_and_Move_Out.jpg
+Premiere/Peace_and_Harmony.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Peace_and_Harmony.jpg
+Premiere/Pecos_Empire.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Pecos_Empire.jpg
+Premiere/Plato.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Plato.jpg
+Premiere/Poor_Yorick.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Poor_Yorick.jpg
+Premiere/Power_Blast.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Power_Blast.jpg
+Premiere/Pre-Rifts_Industrial_Complex.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Pre-Rifts_Industrial_Complex.jpg
+Premiere/Press_the_Attack.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Press_the_Attack.jpg
+Premiere/Prime_Minister_James_Lorne.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Prime_Minister_James_Lorne.jpg
+Premiere/Psi_Battallion.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Psi_Battallion.jpg
+Premiere/Psi-Stalkers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Psi-Stalkers.jpg
+Premiere/Quebecois_Infantry.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Quebecois_Infantry.jpg
+Premiere/Rag'tar_Batrick.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Rag'tar_Batrick.jpg
+Premiere/Rapid_Deployment_Company.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Rapid_Deployment_Company.jpg
+Premiere/Rebuild.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Rebuild.jpg
+Premiere/Regroup.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Regroup.jpg
+Premiere/Renegade_Dog_Boys.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Renegade_Dog_Boys.jpg
+Premiere/Reprogramming.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Reprogramming.jpg
+Premiere/Rise_From_Chaos.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Rise_From_Chaos.jpg
+Premiere/Rolla-Morden_Hive.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Rolla-Morden_Hive.jpg
+Premiere/Rolla-Morden_Xiticix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Rolla-Morden_Xiticix.jpg
+Premiere/SAMAS_Squadron.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/SAMAS_Squadron.jpg
+Premiere/Sea_Viper_Iron_Juggernauts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Sea_Viper_Iron_Juggernauts.jpg
+Premiere/Shemarrian_Warriors.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Shemarrian_Warriors.jpg
+Premiere/Shifters.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Shifters.jpg
+Premiere/Simvan_Monster_Riders.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Simvan_Monster_Riders.jpg
+Premiere/Sir_Tristram.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Sir_Tristram.jpg
+Premiere/Sir_Winslow_Thorpe.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Sir_Winslow_Thorpe.jpg
+Premiere/Skelebot_Platoon.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Skelebot_Platoon.jpg
+Premiere/Sky_Cycles.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Sky_Cycles.jpg
+Premiere/Slice_and_Dice.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Slice_and_Dice.jpg
+Premiere/Sorcerers'_Revenge.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Sorcerers'_Revenge.jpg
+Premiere/Special_Projects.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Special_Projects.jpg
+Premiere/Spider-Skull_Walkers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Spider-Skull_Walkers.jpg
+Premiere/Spiny_Ravagers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Spiny_Ravagers.jpg
+Premiere/Stolen_Battle_Plans.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Stolen_Battle_Plans.jpg
+Premiere/Stormspire.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Stormspire.jpg
+Premiere/Strategic_Withdrawal.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Strategic_Withdrawal.jpg
+Premiere/Stray_From_the_Pack.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Stray_From_the_Pack.jpg
+Premiere/Sundance.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Sundance.jpg
+Premiere/Sunset_Angel.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Sunset_Angel.jpg
+Premiere/Super_SAMAS_Squadron.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Super_SAMAS_Squadron.jpg
+Premiere/Suppression_Fire.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Suppression_Fire.jpg
+Premiere/Tactical_Nuke.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Tactical_Nuke.jpg
+Premiere/Take_Point.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Take_Point.jpg
+Premiere/Tarantula_Glitter_Boys.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Tarantula_Glitter_Boys.jpg
+Premiere/Tazoro_Zain,_Mystic_Knight.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Tazoro_Zain,_Mystic_Knight.jpg
+Premiere/Tech_Upgrade.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Tech_Upgrade.jpg
+Premiere/Techno-Wizard_Desperados.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Techno-Wizard_Desperados.jpg
+Premiere/Techno-Wizard_Smiths.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Techno-Wizard_Smiths.jpg
+Premiere/Technological_Supremacy.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Technological_Supremacy.jpg
+Premiere/Telemechanics.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Telemechanics.jpg
+Premiere/Terror_Troopers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Terror_Troopers.jpg
+Premiere/The_Book_of_Ten.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/The_Book_of_Ten.jpg
+Premiere/The_Diamond_Alliance.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/The_Diamond_Alliance.jpg
+Premiere/The_Great_Purple_Mage.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/The_Great_Purple_Mage.jpg
+Premiere/The_Grim_Reapers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/The_Grim_Reapers.jpg
+Premiere/The_Pact.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/The_Pact.jpg
+Premiere/The_Pecos_Raiders.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/The_Pecos_Raiders.jpg
+Premiere/The_Sabre_Warriors.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/The_Sabre_Warriors.jpg
+Premiere/Thirst_for_Battle.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Thirst_for_Battle.jpg
+Premiere/Thomm.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Thomm.jpg
+Premiere/Thornhead_Demons.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Thornhead_Demons.jpg
+Premiere/Thundering_Iron_Juggernauts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Thundering_Iron_Juggernauts.jpg
+Premiere/Titan_Combat_Robots.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Titan_Combat_Robots.jpg
+Premiere/Titan_Juicers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Titan_Juicers.jpg
+Premiere/Tokanii.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Tokanii.jpg
+Premiere/Tolkeen.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Tolkeen.jpg
+Premiere/Total_War.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Total_War.jpg
+Premiere/Town_of_Solomon.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Town_of_Solomon.jpg
+Premiere/Upstart_Warlord.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Upstart_Warlord.jpg
+Premiere/Urban_Decay.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Urban_Decay.jpg
+Premiere/Urban_Warfare.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Urban_Warfare.jpg
+Premiere/Vanguard_Brawlers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Vanguard_Brawlers.jpg
+Premiere/Versatility.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Versatility.jpg
+Premiere/Violator_SAMAS_Squadron.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Violator_SAMAS_Squadron.jpg
+Premiere/Warhawk_Iron_Juggernauts.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Warhawk_Iron_Juggernauts.jpg
+Premiere/Warlord_Don_Marco.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Warlord_Don_Marco.jpg
+Premiere/Warlord_Uxluth.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Warlord_Uxluth.jpg
+Premiere/Water_Elementals.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Water_Elementals.jpg
+Premiere/Weapon_Burst.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Weapon_Burst.jpg
+Premiere/Wild_Psi-Stalkers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Wild_Psi-Stalkers.jpg
+Premiere/Winnipeg_Hive.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Winnipeg_Hive.jpg
+Premiere/Winnipeg_Xiticix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Winnipeg_Xiticix.jpg
+Premiere/Witchlings.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Witchlings.jpg
+Premiere/Xiticix.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix.jpg
+Premiere/Xiticix_Elder_Queen.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Elder_Queen.jpg
+Premiere/Xiticix_Killers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Killers.jpg
+Premiere/Xiticix_Nannies.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Nannies.jpg
+Premiere/Xiticix_Raiding_Swarm.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Raiding_Swarm.jpg
+Premiere/Xiticix_Super-Warriors.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Super-Warriors.jpg
+Premiere/Xiticix_Warriors.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Warriors.jpg
+Premiere/Xiticix_Workers.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Workers.jpg
+Premiere/Xiticix_Young_Queens.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Xiticix_Young_Queens.jpg
+Premiere/Zimchex.jpg	https://raw.githubusercontent.com/wishmstr/RiftsCCG/main/sets/setimages/Premiere/Zimchex.jpg
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
