@@ -115,7 +115,7 @@ Freehold, City of Dragons	Premiere	Freehold,_City_of_Dragons.jpg	Base Unit
 Full Mobilization	Premiere	Full_Mobilization.jpg	Event
 Fury Iron Juggernauts	Premiere	Fury_Iron_Juggernauts.jpg	Field Unit
 GB 6-96 Glitter Boy Transport	Premiere	GB_6-96_Glitter_Boy_Transport.jpg	Field Unit
-General "Genius" Godfrey	Premiere	General_"Genius"_Godfrey.jpg	Field Unit
+General "Genius" Godfrey	Premiere	General_Genius_Godfrey.jpg	Field Unit
 General Marshall Cabot	Premiere	General_Marshall_Cabot.jpg	Base Unit
 General Ross Underhill	Premiere	General_Ross_Underhill.jpg	Base Unit
 Geometric Growth	Premiere	Geometric_Growth.jpg	Event
